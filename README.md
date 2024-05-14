@@ -8,3 +8,4 @@
 <br>
 <br>
 <br>
+<img src="https://github.com/JexSparrow/We-Care-2.0/blob/main/img/Minimalist%20Laptop%20Mockup%20Beauty%20Facebook%20Cover.png?raw=true" />
