@@ -4,6 +4,7 @@ Dê uma olhada neste projeto que marca meu primeiro mergulho no mundo do desenvo
 Utilizando HTML para estruturar cada elemento e a expressividade do CSS para dar vida ao design, criei uma landing page básica, porém impactante.
 
 Projeto feito no Dev Club
+<br>
 Confira: (https://we-care-jex.netlify.app/)
 <br>
 <h2>Projeto feito com as seguintes tecnologias:</h2>
